@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64116144046",
+    "firebase_url": "https://appgendraexamen.firebaseio.com",
+    "project_id": "appgendraexamen",
+    "storage_bucket": "appgendraexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64116144046:android:adb348d88891beb43b3a3f",
+        "android_client_info": {
+          "package_name": "com.gendra.appgendraexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64116144046-ss9s5eadeg1h5i758s7lnaotstr1n7dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gendra.appgendraexamen",
+            "certificate_hash": "83af249ea5bde95badd5ddc48bd30e7cba172aff"
+          }
+        },
+        {
+          "client_id": "64116144046-6t14pngddcc2kjhut5b2f0qao61sv5ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqkqrJ88lpVvqC04WfJsLQ3q0KOkDOiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64116144046-6t14pngddcc2kjhut5b2f0qao61sv5ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8E44AD</color>
+    <color name="colorPrimaryDark">#400259</color>
+    <color name="colorAccent">#C39BD3</color>
+
+    <color name="base_red">#400259</color>
+    <color name="base_white">#ffffff</color>
+    <color name="window">@color/base_white</color>
+    <color name="base_black_light_50">#808080</color>
+    <color name="base_transparent">#00000000</color>
+    <color name="base_black">#000000</color>
+    <color name="base_gray">#333333</color>
+    <color name="red_light">#FD3246</color>
+    <color name="yellow">#F5A623</color>
+    <color name="base_blue">#5da0c7</color>
+    <color name="base_green">#61BB62</color>
+    <color name="base_yellow">#E9AD0C</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppGendraExamen</string>
+
+    <string name="google_key_api">AIzaSyCSNYulMdHSfCgRXyhoyDO2ldpbwi-Nrrs</string>
+    <string name="txt_cdPostale">Código Postal</string>
+    <string name="txt_country">País</string>
+    <string name="txt_num_of_total">0/5</string>
+    <string name="txt_entity">Entidad</string>
+    <string name="txt_city">Ciudad</string>
+    <string name="txt_municipality">Alcaldía o Municipio</string>
+    <string name="txt_colony">Colonia</string>
+</resources>
